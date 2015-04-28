@@ -9,5 +9,7 @@
  */
 public class nowaklasadozadania {
     public static void main (String[] args){
-    System.out.println("wszystko ladnie");}
+    System.out.println("Wszystko jeszcze ładniej!");
+    System.out.println("Piotr Kucułyma");
+    }
 }
