@@ -9,7 +9,7 @@
  */
 public class nowaklasadozadania {
     public static void main (String[] args){
-    System.out.println("Wszystko jeszcze ≈Çadniej!");
-    System.out.println("Piotr Kucu≈Çyma");
+    System.out.println("Wszystko jeszcze ≥adniej!");
+    System.out.println("Piotr Kucu≥yma");
     }
 }
